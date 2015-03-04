@@ -7,3 +7,5 @@ feature-C
 feature-D
 
 追加コードＸＸ
+
+追加コードＹＹ
